@@ -1,0 +1,8 @@
+INFO Server started successfully
+INFO User logged in
+WARNING Disk space running low
+ERROR Database connection failed
+INFO User logged out
+ERROR Database connection failed
+WARNING High memory usage
+ERROR Timeout while connecting to service
