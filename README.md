@@ -1,4 +1,4 @@
-# python_CLI_Programs
+# Python_CLI_Programs
 
 This repository contains a collection of Python command-line interface (CLI) projects built to strengthen core Python concepts, problem-solving skills, and real-world logic implementation.  
 Each project focuses on practical use cases such as data management, file handling, and text processing.
